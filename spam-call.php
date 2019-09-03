@@ -27,6 +27,6 @@ ___----             ___------              \
     \e[1;96m  └─┐├─┘├─┤││││  ├─┤│  │    \e[1;32m  |  | ((_(_)| )_)
      \e[1;96m └─┘┴  ┴ ┴┴ ┴└─┘┴ ┴┴─┘┴─┘   \e[1;32m |  \_((_(_)|/(_)
                \e[0;90mBy: Ivan Cruz Revoer\e[1;32m  \             (
-                                   \_____________)
-"; system ('echo'); sleep ('0.4'); echo " [+] No Target: "; $no = get(); $n = new prankCall($no); $n->run(); 
+             \e[0;90mBy: Muslim Cyber Army \e[1;32m  \          \_____________)
+"; system ('echo'); sleep ('0.4'); echo " [+] No Target(62/08): "; $no = get(); $n = new prankCall($no); $n->run(); 
 ?>
